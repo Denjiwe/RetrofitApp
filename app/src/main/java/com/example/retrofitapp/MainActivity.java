@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView tvChuva3;
 
 private String url="https://api.hgbrasil.com/weather?key=(chave da api)&city_name=(nome da cidade)";
-private String apikey="a60113ec";
+private String apikey="171dafe4";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
